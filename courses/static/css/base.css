@@ -1,0 +1,25 @@
+#header{
+	font-size: 40px;
+
+}
+
+#subheader{
+	background-color: : "gray";
+	float: right ;
+	padding: 5px;
+	border: 5px solid darkblue;
+	border-radius: 20px;
+}
+
+#productview{
+	float: left; 
+	padding: 25px;
+}
+
+#content{
+	
+}
+
+#cart{
+	background-color: red;
+}
