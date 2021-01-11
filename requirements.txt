@@ -35,6 +35,5 @@ celery==4.4.1
 redis==3.4.1
 django-autoslug==1.9.7
 django-termsandconditions==1.2.15
-django-braces==1.13.0
-django-embed-video==1.1.2
+
 
